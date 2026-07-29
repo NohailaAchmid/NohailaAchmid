@@ -1,92 +1,67 @@
-<h1 align="center">Hi 👋, I'm Nohaila Achmid</h1>
-
-<h3 align="center">
-Decision Informatics & Data Science Student | Laravel & PHP Developer | Morocco 🇲🇦
-</h3>
+<h1 align="center">Hi , I'm Nohaila Achmid</h1>
+<h3 align="center">Decision Informatics & Data Science Student </h3>
 
 <p align="center">
-Passionate about Data Science, Business Intelligence, Web Development, and Artificial Intelligence.
+Passionate about Data Science, Business Intelligence, Artificial Intelligence, and Web Development.
 </p>
 
 ---
 
-# 👩‍💻 About Me
+ About Me
 
-🎓 Decision Informatics & Data Science Student
+ I am a **Decision Informatics & Data Science** student from Morocco.
 
-💻 Passionate about Laravel, PHP, MySQL, and Web Development.
+ I enjoy building web applications with **Laravel**, **PHP**, **MySQL**, and modern web technologies.
 
-📊 Interested in Business Intelligence, Data Analysis, and Artificial Intelligence.
+ I am passionate about **Data Science**, **Business Intelligence**, and **Artificial Intelligence**.
 
-🌱 Currently learning
+ Currently learning:
 
 - Laravel
-- PHP
-- MySQL
-- Git & GitHub
 - Data Science
+- Machine Learning
 - Artificial Intelligence
+- Git & GitHub
 
-🎯 Goal
+ **Career Goal**
 
-To become a Data Engineer and Full-Stack Developer while building innovative data-driven solutions.
+To become a **Data Engineer** and build intelligent, data-driven applications.
+
+---
+
+
+---
+
+## Languages
+
+-  Rifian (Native)
+-  Arabic (C1)
+-  French (B1)
+-  English (B1)
+-  German (A2)
 
 ---
 
 
 
-# 🌍 Languages
 
-- 🟢 Rifian (Native)
-- 🟢 Arabic (C1)
-- 🟡 French (B1)
-- 🟡 English (B1)
-- 🟡 German (A2)
 
----
+## 📫 Connect with Me
 
-# 📊 GitHub Stats
+<p align="left">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NohailaAchmid&show_icons=true&theme=tokyonight"/>
-
+<a href="https://github.com/NohailaAchmid">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
-<img src="https://streak-stats.demolab.com?user=NohailaAchmid&theme=tokyonight"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NohailaAchmid&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NohailaAchmid&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📫 Contact
-
-📧 Email: **nohailaachmid@gmail.com**
-
-🐙 GitHub: **https://github.com/NohailaAchmid**
+</div>
