@@ -7,7 +7,7 @@ Passionate about Data Science, Business Intelligence, Artificial Intelligence, a
 
 ---
 
- About Me
+<h3 align="center">About Me</h3> About Me
 
  I am a **Decision Informatics & Data Science** student from Morocco.
 
@@ -27,7 +27,7 @@ Passionate about Data Science, Business Intelligence, Artificial Intelligence, a
 
 To become a **Data Engineer** and build intelligent, data-driven applications.
 
----
+
 
 
 
@@ -40,13 +40,13 @@ To become a **Data Engineer** and build intelligent, data-driven applications.
 -  English (B1)
 -  German (A2)
 
----
 
 
 
 
 
-## 📫 Connect with Me
+
+##  Connect with Me
 
 <p align="left">
 <a href="mailto:YOUR_EMAIL@gmail.com">
