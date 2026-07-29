@@ -7,7 +7,7 @@ Passionate about Data Science, Business Intelligence, Artificial Intelligence, a
 <hr>
 
 <h3>About Me</h3>
-<hr>
+
  I am a **Decision Informatics & Data Science** student from Morocco.
 
  I enjoy building web applications with **Laravel**, **PHP**, **MySQL**, and modern web technologies.
