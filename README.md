@@ -4,8 +4,7 @@
 <p align="center">
 Passionate about Data Science, Business Intelligence, Artificial Intelligence, and Web Development.
 </p>
-
-
+<hr>
 
 <h3>About Me</h3>
 <hr>
